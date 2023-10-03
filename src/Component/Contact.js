@@ -1,7 +1,7 @@
-import Hero from '../Component/Hero'
-import Contactform from "../Component/Contactform"
+import Hero from './Hero'
+import Contactform from "./Contactform"
 import img2 from  "/Users/harshsahcdeva/Desktop/projected/src/assets/4.jpg";
-import Footer from "../Component/Footer" 
+import Footer from "./Footer" 
 function Contact(){
   return (
    <>
