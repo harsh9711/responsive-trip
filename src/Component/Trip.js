@@ -1,8 +1,8 @@
 import React from 'react'
 import Tripdata from "../Component/Tripdata.js"
-import Trip1 from "/Users/harshsahcdeva/Desktop/projected/src/assets/15.jpg"
-import Trip2 from "/Users/harshsahcdeva/Desktop/projected/src/assets/14.jpg"
-import Trip3 from "/Users/harshsahcdeva/Desktop/projected/src/assets/16.jpg"
+import Trip1 from "../assets/15.jpg"
+import Trip2 from "../assets/14.jpg"
+import Trip3 from "../assets/16.jpg"
 import "../Styles/Trip.css"
 
 const Trip = () => {

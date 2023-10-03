@@ -1,7 +1,7 @@
 import Hero from '../Component/Hero'
 import Footer from "../Component/Footer" 
 import Trip from '../Component/Trip';
-import img4 from  "/Users/harshsahcdeva/Desktop/projected/src/assets/6.jpg";
+import img4 from  "../assets/6.jpg";
 function Service(){
   return (
    <>

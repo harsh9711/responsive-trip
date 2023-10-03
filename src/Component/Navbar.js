@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import "/Users/harshsahcdeva/Desktop/projected/src/Styles/Navbar.css";
+import "../Styles/Navbar.css";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faTimes, faBars, faHouseUser, faCircleInfo, faBriefcase, faAddressBook } from '@fortawesome/free-solid-svg-icons';
-import { Menuitems } from '/Users/harshsahcdeva/Desktop/projected/src/Component/Menuitem.js';
+import { Menuitems } from '../Component/Menuitem.js';
 library.add(faTimes, faBars, faHouseUser, faCircleInfo, faBriefcase, faAddressBook);
 
 const Navbar = () => {

@@ -1,7 +1,7 @@
 import Hero from '../Component/Hero'
 import Footer from "../Component/Footer" 
 import Aboutus from '../Component/Aboutus';
-import img2 from  "/Users/harshsahcdeva/Desktop/projected/src/assets/3.jpg";
+import img2 from  "../assets/3.jpg";
 function About(){
   return (
    <>

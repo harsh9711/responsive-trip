@@ -1,5 +1,5 @@
 import{ Component } from 'react'
-import "/Users/harshsahcdeva/Desktop/projected/src/Styles/Destination.css"
+import "../Styles/Destination.css"
 class Destinationdata extends Component{
     render(){
     return (

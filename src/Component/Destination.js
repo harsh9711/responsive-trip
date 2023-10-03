@@ -1,12 +1,12 @@
 import React from 'react'
 import "../Styles/Destination.css"
-import image1 from "/Users/harshsahcdeva/Desktop/projected/src/assets/7.jpg"
-import image2 from "/Users/harshsahcdeva/Desktop/projected/src/assets/8.jpg"
-import image3 from "/Users/harshsahcdeva/Desktop/projected/src/assets/10.jpg"
-import image4 from "/Users/harshsahcdeva/Desktop/projected/src/assets/11.jpg"
-import image5 from "/Users/harshsahcdeva/Desktop/projected/src/assets/12.jpg"
-import image6 from "/Users/harshsahcdeva/Desktop/projected/src/assets/13.jpg"
-import Destinationdata from "/Users/harshsahcdeva/Desktop/projected/src/Component/Destinationdata.js"
+import image1 from '../assets/7.jpg';
+import image2 from '../assets/8.jpg';
+import image3 from '../assets/10.jpg';
+import image4 from '../assets/11.jpg';
+import image5 from '../assets/12.jpg';
+import image6 from '../assets/13.jpg';
+import Destinationdata from "./Destinationdata.js"
 const Destination = () => {
     return (
            <div className="destination">
