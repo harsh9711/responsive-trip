@@ -1,10 +1,10 @@
 import './App.css';
 import Contact from './Component/Contact.js';
-import About from  "/Users/harshsahcdeva/Desktop/projected/src/Routes/About.js"
-import Service from  "/Users/harshsahcdeva/Desktop/projected/src/Routes/Service.js"
-import Home from  "/Users/harshsahcdeva/Desktop/projected/src/Routes/Home.js"
+import About from './Routes/About.js';
+import Service from './Routes/Service.js';
+import Home from './Routes/Home.js';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Navbar from "./Component/Navbar.js"
+import Navbar from './Component/Navbar.js';
 
 function App() {
   return (

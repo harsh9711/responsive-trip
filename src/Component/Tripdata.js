@@ -1,11 +1,10 @@
-import Trip from "../Component/Trip";
 import "../Styles/Trip.css"
 
 function Tripdata(props){
   return (
     <div className="t-card">
         <div className="t-image">
-            <img src={props.image} alt="image"/>
+            <img src={props.image} alt="tripimage"/>
         </div>
         <h4>{props.heading}</h4>
       <p>{props.text}</p>
